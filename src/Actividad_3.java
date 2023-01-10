@@ -1,6 +1,4 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
-
 public class Actividad_3 {
     public static void control(double ingresos, double porcenteaje_productor_1, double porcenteaje_productor_2){
         double utilidades = 0, costos_de_produccion=0;
