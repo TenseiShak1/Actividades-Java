@@ -44,8 +44,8 @@ public class Actividad_2 {
         int opcion_del_menu;
         do {
             opcion_del_menu= menu_princial();
-            switch (opcion_del_menu){
-                case 1:
+            switch (opcion_del_menu) {
+                case 1 -> {
                     System.out.println("""
                             La sucursal de Santa Marta fue escogida:\s
                             /**************************************/\s
@@ -53,8 +53,8 @@ public class Actividad_2 {
                             """);
                     informacion();
                     System.out.println("Evaluacion termidada\n\n");
-                    break;
-                case 2:
+                }
+                case 2 -> {
                     System.out.println("""
                             La sucursal de Bogota fue escogida:\s
                             /**************************************/\s
@@ -62,8 +62,8 @@ public class Actividad_2 {
                             """);
                     informacion();
                     System.out.println("Evaluacion termidada\n\n");
-                    break;
-                case 3:
+                }
+                case 3 -> {
                     System.out.println("""
                             La sucursal de Cali fue escogida:\s
                             /**************************************/\s
@@ -71,8 +71,8 @@ public class Actividad_2 {
                             """);
                     informacion();
                     System.out.println("Evaluacion termidada\n\n");
-                    break;
-                case 4:
+                }
+                case 4 -> {
                     System.out.println("""
                             La sucursal de Villavicencio fue escogida:\s
                             /**************************************/\s
@@ -80,19 +80,18 @@ public class Actividad_2 {
                             """);
                     informacion();
                     System.out.println("Evaluacion termidada\n\n");
-
-                    break;
-                default:
-                    if (opcion_del_menu == 5){
+                }
+                default -> {
+                    if (opcion_del_menu == 5) {
                         System.out.println("Se decidio no continuar.");
-                    }else {
+                    } else {
                         System.out.println("""
                                 Presione cualquier tecla del 1 al 4 para continuar.\s
-                                
+                                                                
                                 Para salir presione la tecla 5.\s
                                 """);
                     }
-                    break;
+                }
             }
         }while(opcion_del_menu !=5);
     }
