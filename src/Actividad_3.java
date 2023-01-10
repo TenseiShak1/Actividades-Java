@@ -27,5 +27,6 @@ public class Actividad_3 {
         System.out.println("Digite el porcentaje de descuento del productor 2");
         porcenteaje_productor2 = data.nextDouble();
         control(ingresos, porcenteaje_productor1,porcenteaje_productor2);
+
     }
 }
