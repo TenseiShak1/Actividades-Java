@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc252622-6156-469c-b21c-c5018d131fbb" name="Changes" comment="Primera actividad añadida">
-      <change afterPath="$PROJECT_DIR$/src/Actividad_2.java" afterDir="false" />
+    <list default="true" id="fc252622-6156-469c-b21c-c5018d131fbb" name="Changes" comment="Segunda actividad añadida">
+      <change afterPath="$PROJECT_DIR$/src/Actividad_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9775c372-7501-4113-abc7-a9c02a09a857" />
+        <option name="url" value="https://github.com/TenseiShak1/Actividades-Java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,7 +49,8 @@
     "introduce.parameter.lambda": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,11 +69,30 @@
       <option name="project" value="LOCAL" />
       <updated>1673321456880</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Segunda actividad añadida">
+      <created>1673329832169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673329832169</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Segunda actividad añadida">
+      <created>1673329957153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673329957153</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primera actividad añadida" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primera actividad añadida" />
+    <MESSAGE value="Segunda actividad añadida" />
+    <option name="LAST_COMMIT_MESSAGE" value="Segunda actividad añadida" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
